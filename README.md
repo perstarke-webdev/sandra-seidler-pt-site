@@ -1,6 +1,6 @@
-# StrengthTherapist Site
+# Sandra Seidler Personal Training Site
 
-Repository for the website for StrengthTherapist
+Repository for the website for Sandra Seidler Personal Training
 
 ## Credits
 
