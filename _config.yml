@@ -10,7 +10,7 @@ oneflow-skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sandra Seidler"
+title                    : "Sandra Seidler Personaltraining"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "" # the base hostname & protocol for your site
