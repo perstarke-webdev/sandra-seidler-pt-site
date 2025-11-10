@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Über Mich"
-    url: /#ueber-mich
-    blank: false
-
   - title: "Zusammenarbeit"
     url: /#zusammenarbeit
+    blank: false
+
+  - title: "Über Mich"
+    url: /#ueber-mich
     blank: false
 
   - title: "Preise"
