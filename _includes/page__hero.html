@@ -22,17 +22,17 @@
      style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}; min-height: 100vh; background-size: cover; display: flex; flex-direction: column; justify-content: center; align-items: center;">
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-      <h1 id="page-title" class="page__title page__title--painted" itemprop="headline">
+      <h1 id="page-title" class="page__title page__title--painted" itemprop="headline" data-aos="fade-up">
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
       </h1>
       {% if page.header.show_overlay_excerpt != false and page.excerpt %}
-        <p class="page__lead" style="margin-top: 2em; margin-bottom: 2em;">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        <p data-aos="fade-left" class="page__lead" style="margin-top: 2em; margin-bottom: 2em;">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
       {% if page.header.actions %}
       <div style="text-align: center">
         <p>
         {% for action in page.header.actions %}
-          <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large" {% if action.blank %} target="_blank" rel="noopener noreferrer nofollow"{% endif %}>{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          <a data-aos="fade-right" href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large" {% if action.blank %} target="_blank" rel="noopener noreferrer nofollow"{% endif %}>{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
         {% endfor %}
       </div>
       {% endif %}
