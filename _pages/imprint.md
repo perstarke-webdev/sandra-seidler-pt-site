@@ -5,14 +5,13 @@ permalink: /imprint
 ---
 
 #### Anbieter und Verantwortliche Person
-Kevin Wiethoff
+Sandra Seidler
 
 #### Kontakt
-E-Mail: info@strengththerapist.de  
-Straße: Petersbergstr. 18  
-PLZ: 53840  
-Ort: Troisdorf  
-Land: Deutschland
+info@sandraseidler-pt.de     
+Suevenstraße 10    
+50679 Köln   
+Deutschland   
 
 ## Datenschutzerklärung
 
@@ -31,15 +30,15 @@ Der Anbieter verwendet diese Protokolldaten *nicht*!
 
 Der Anbieter behält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
 
-#### GitHub Pages und CDN-Nutzung:
+#### CDN-Nutzung:
 
-Diese Website wird über [GitHub Pages](https://pages.github.com/) bereitgestellt, einem von GitHub, Inc. angebotenen Dienst, der es ermöglicht, Webseiteninhalte effizient und schnell weltweit zu verteilen. Die Verwendung von GitHub Pages integriert automatisch ein Content Delivery Network (CDN), um die Ladezeiten der Website zu optimieren und die Verfügbarkeit von Inhalten sicherzustellen.
+Diese Seite wird über ein Content Delivery Network (CDN) bereitgestellt, um die Ladezeiten der Website zu optimieren und die Verfügbarkeit von Inhalten sicherzustellen.
 
 Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, dass einige Ihrer nicht-persönlichen Daten, wie die IP-Adresse und Informationen zur Seitennutzung, über das CDN übertragen werden können, um eine optimale Leistung der Website zu gewährleisten. Diese Datenübertragung erfolgt in Übereinstimmung mit den geltenden Datenschutzbestimmungen.
 
 Wir respektieren Ihre Privatsphäre und ergreifen angemessene Maßnahmen, um persönliche Informationen zu schützen. Bitte beachten Sie unsere Datenschutzerklärung für weitere Informationen darüber, wie wir mit Ihren Daten umgehen.
 
-Bei Fragen oder Anliegen zur Verwendung von GitHub Pages und des CDNs auf dieser Website können Sie sich gerne an uns wenden.
+Bei Fragen oder Anliegen zur Verwendung des CDNs auf dieser Website können Sie sich gerne an uns wenden.
 
 #### Kontaktaufnahme
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
