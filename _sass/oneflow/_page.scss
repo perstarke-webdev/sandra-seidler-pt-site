@@ -540,3 +540,12 @@ text-align: center;
   color: #fff;
 }
 
+@media (max-width: 600px) {
+  .page__title--painted {
+    font-size: 170% !important;
+  }
+
+  .wrapper {
+    margin-top: 5rem !important;
+  }
+}

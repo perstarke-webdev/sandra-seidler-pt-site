@@ -42,7 +42,7 @@ footer:
       url: "https://www.instagram.com/sandra.seidler75/"
     - label: "TikTok"
       icon: "fab fa-tiktok"
-      url: "https://www.instagram.com/sandra.seidler75/"
+      #url: "https://www.instagram.com/sandra.seidler75/"
     - label: "YouTube"
       icon: "fab fa-youtube"
       #url:
