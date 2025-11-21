@@ -9,11 +9,11 @@
 oneflow-skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "de"
 title                    : "Sandra Seidler Personaltraining"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "" # the base hostname & protocol for your site
+url                      : "sandraseidler-pt.de" # the base hostname & protocol for your site
 baseurl                  : ""
 repository               : "" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
